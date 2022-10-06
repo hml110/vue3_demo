@@ -12,7 +12,7 @@ app.mount("#app");
 //卸载app
 // app.unmount("#app");
 
-// console.log(app);
+console.log(app);
 
 //Vue2 写法
 /*
